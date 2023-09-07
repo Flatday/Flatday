@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+普普通通大学生，平时没有什么兴趣爱好，偶尔玩玩游戏。
+
+简单编辑一下而已，没有想写的内容。
+
 <!--
 **Flatday/Flatday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
